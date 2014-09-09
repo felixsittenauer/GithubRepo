@@ -1,0 +1,25 @@
+MenuOwl.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Owl
+  rotate: false
+  xy: 2, 2
+  size: 199, 239
+  orig: 199, 239
+  offset: 0, 0
+  index: -1
+marvel
+  rotate: false
+  xy: 203, 2
+  size: 201, 85
+  orig: 201, 85
+  offset: 0, 0
+  index: -1
+sleepingowl
+  rotate: false
+  xy: 2, 243
+  size: 199, 239
+  orig: 199, 239
+  offset: 0, 0
+  index: -1

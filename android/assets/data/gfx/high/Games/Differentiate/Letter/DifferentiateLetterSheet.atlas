@@ -1,0 +1,25 @@
+DifferentiateLetterSheet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CardBackground
+  rotate: false
+  xy: 2, 2
+  size: 1336, 870
+  orig: 1336, 870
+  offset: 0, 0
+  index: -1
+LetterBackground
+  rotate: false
+  xy: 1340, 2
+  size: 230, 232
+  orig: 230, 232
+  offset: 0, 0
+  index: -1
+redBackground
+  rotate: false
+  xy: 1572, 2
+  size: 311, 298
+  orig: 311, 298
+  offset: 0, 0
+  index: -1

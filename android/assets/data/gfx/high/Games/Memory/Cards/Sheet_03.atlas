@@ -1,0 +1,109 @@
+Flip_03.png
+format: RGBA8888
+filter: MipMapLinearLinear,Linear
+repeat: none
+Flip
+  rotate: false
+  xy: 2, 2
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 0
+Flip
+  rotate: false
+  xy: 454, 2
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 1
+Flip
+  rotate: false
+  xy: 906, 2
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 2
+Flip
+  rotate: false
+  xy: 1358, 2
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 3
+Flip
+  rotate: false
+  xy: 2, 454
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 4
+Flip
+  rotate: false
+  xy: 454, 454
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 5
+Flip
+  rotate: false
+  xy: 906, 454
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 6
+Flip
+  rotate: false
+  xy: 1358, 454
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 7
+Flip
+  rotate: false
+  xy: 2, 906
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 8
+Flip
+  rotate: false
+  xy: 454, 906
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 9
+Flip
+  rotate: false
+  xy: 906, 906
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 10
+Flip
+  rotate: false
+  xy: 1358, 906
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 11
+Flip
+  rotate: false
+  xy: 2, 1358
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 12
+Flip
+  rotate: false
+  xy: 454, 1358
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 13
+Flip
+  rotate: false
+  xy: 906, 1358
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: 14

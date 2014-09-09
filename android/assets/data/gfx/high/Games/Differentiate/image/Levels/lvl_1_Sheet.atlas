@@ -1,0 +1,18 @@
+lvl_1_Sheet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+test1
+  rotate: false
+  xy: 2, 2
+  size: 550, 800
+  orig: 550, 800
+  offset: 0, 0
+  index: -1
+test2
+  rotate: false
+  xy: 2, 804
+  size: 550, 800
+  orig: 550, 800
+  offset: 0, 0
+  index: -1

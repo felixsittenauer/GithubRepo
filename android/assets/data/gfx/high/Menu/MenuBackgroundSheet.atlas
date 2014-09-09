@@ -1,0 +1,32 @@
+MenuBackgroundSheet.png
+format: RGBA8888
+filter: MipMapLinearLinear,Linear
+repeat: none
+Cloud1
+  rotate: false
+  xy: 2, 1792
+  size: 748, 254
+  orig: 750, 280
+  offset: 2, 0
+  index: -1
+Cloud2
+  rotate: false
+  xy: 840, 1214
+  size: 750, 281
+  orig: 750, 281
+  offset: 0, 0
+  index: -1
+MenuBackground
+  rotate: false
+  xy: 2, 2
+  size: 1708, 1210
+  orig: 1708, 1210
+  offset: 0, 0
+  index: -1
+ast
+  rotate: false
+  xy: 2, 1214
+  size: 836, 576
+  orig: 846, 576
+  offset: 10, 0
+  index: -1

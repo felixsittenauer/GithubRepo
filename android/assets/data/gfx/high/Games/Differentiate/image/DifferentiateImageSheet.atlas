@@ -1,0 +1,11 @@
+DifferentiateImageSheet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CardBackground
+  rotate: false
+  xy: 2, 2
+  size: 1336, 870
+  orig: 1336, 870
+  offset: 0, 0
+  index: -1

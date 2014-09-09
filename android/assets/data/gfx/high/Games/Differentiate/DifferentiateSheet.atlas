@@ -1,0 +1,39 @@
+DifferentiateSheet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DifferentiateBackground
+  rotate: false
+  xy: 2, 2
+  size: 1708, 1203
+  orig: 1708, 1203
+  offset: 0, 0
+  index: -1
+ExitButton
+  rotate: false
+  xy: 1712, 2
+  size: 200, 143
+  orig: 200, 143
+  offset: 0, 0
+  index: -1
+StartButton
+  rotate: false
+  xy: 2, 1207
+  size: 705, 214
+  orig: 705, 214
+  offset: 0, 0
+  index: -1
+right_green
+  rotate: false
+  xy: 709, 1207
+  size: 272, 251
+  orig: 272, 251
+  offset: 0, 0
+  index: -1
+right_yellow
+  rotate: false
+  xy: 983, 1207
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1

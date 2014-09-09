@@ -1,0 +1,53 @@
+MenuInterfaceSheet1.png
+format: RGBA8888
+filter: MipMapLinearLinear,Linear
+repeat: none
+BackButton
+  rotate: true
+  xy: 522, 2
+  size: 700, 246
+  orig: 700, 246
+  offset: 0, 0
+  index: -1
+MI_Background
+  rotate: false
+  xy: 2, 417
+  size: 341, 535
+  orig: 341, 535
+  offset: 0, 0
+  index: -1
+MI_Optionen
+  rotate: false
+  xy: 688, 851
+  size: 273, 123
+  orig: 273, 123
+  offset: 0, 0
+  index: -1
+MI_Spielen
+  rotate: true
+  xy: 345, 417
+  size: 378, 148
+  orig: 378, 148
+  offset: 0, 0
+  index: -1
+MI_Test
+  rotate: false
+  xy: 495, 704
+  size: 350, 145
+  orig: 350, 145
+  offset: 0, 0
+  index: -1
+MenuWindow
+  rotate: false
+  xy: 2, 2
+  size: 518, 413
+  orig: 518, 413
+  offset: 0, 0
+  index: -1
+MI_Optionen
+  rotate: false
+  xy: 345, 851
+  size: 341, 124
+  orig: 341, 124
+  offset: 0, 0
+  index: -1

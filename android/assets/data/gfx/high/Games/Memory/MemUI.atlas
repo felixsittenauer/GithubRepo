@@ -1,0 +1,25 @@
+MemUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ExitMem
+  rotate: false
+  xy: 2, 2
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+NewGame
+  rotate: false
+  xy: 111, 2
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+WoodPattern
+  rotate: false
+  xy: 220, 2
+  size: 1600, 1200
+  orig: 1600, 1200
+  offset: 0, 0
+  index: -1

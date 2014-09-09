@@ -1,0 +1,53 @@
+DomainSheet.png
+format: RGBA8888
+filter: MipMapLinearLinear,Linear
+repeat: none
+DomainIcon00
+  rotate: false
+  xy: 804, 747
+  size: 800, 364
+  orig: 800, 364
+  offset: 0, 0
+  index: -1
+DomainIcon01
+  rotate: false
+  xy: 814, 2
+  size: 810, 374
+  orig: 810, 374
+  offset: 0, 0
+  index: -1
+DomainIcon02
+  rotate: false
+  xy: 2, 2
+  size: 810, 374
+  orig: 810, 374
+  offset: 0, 0
+  index: -1
+DomainIcon03
+  rotate: false
+  xy: 2, 747
+  size: 800, 364
+  orig: 800, 364
+  offset: 0, 0
+  index: -1
+DomainIcon04
+  rotate: false
+  xy: 2, 378
+  size: 803, 367
+  orig: 803, 367
+  offset: 0, 0
+  index: -1
+DomainIcon05
+  rotate: false
+  xy: 807, 378
+  size: 801, 364
+  orig: 801, 364
+  offset: 0, 0
+  index: -1
+DomainIcon06
+  rotate: false
+  xy: 2, 1113
+  size: 798, 361
+  orig: 798, 361
+  offset: 0, 0
+  index: -1
